@@ -1,0 +1,14 @@
+.est-text-footer {
+    font-size: 14px;
+    text-align: right;
+    color:white;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.est-footer {
+    margin: 20px;
+    background-color:dimgrey ;
+}
